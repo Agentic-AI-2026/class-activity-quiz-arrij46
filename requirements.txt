@@ -1,0 +1,7 @@
+langchain-groq
+langchain-core
+langgraph
+mcp[cli]
+requests
+nest_asyncio
+groq
